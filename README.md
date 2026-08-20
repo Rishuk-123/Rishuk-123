@@ -16,10 +16,8 @@
 
 <br />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishuk-123&theme=tokyonight&column=6&margin-w=15" alt="Trophies" />
-</p>
----
+
+
 
 ### 💫 Who Am I?
 
@@ -102,10 +100,6 @@ Third-year Information Technology student driven by creating efficient software 
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishuk-123&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rishuk-123&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishuk-123&theme=tokyonight" width="97%" alt="Streak Stats" />
