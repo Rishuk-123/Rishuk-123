@@ -16,9 +16,11 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishuk-123&theme=tokyonight&column=6&margin-w=15" alt="Rishuk-123 Trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rishuk-123&theme=tokyonight&column=6&margin-w=15" alt="Rishuk-123 Trophies" />
+  </a>
+</p>
 
 ---
 
@@ -35,7 +37,6 @@ Third-year Information Technology student driven by creating efficient software 
 - Developing full-stack web platforms using Next.js and Node.js
 - Deepening knowledge in Data Structures, Algorithms, and System Design
 - Exploring API design, backend performance, and database indexing
-- Strengthening practices around cloud deployments and DevOps toolchains
 - Working on personal projects to continuously apply theoretical concepts
 
 ---
@@ -64,12 +65,12 @@ Third-year Information Technology student driven by creating efficient software 
       <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br />
       <sub><b>Express</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br />
       <sub><b>MongoDB</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /><br />
       <sub><b>Supabase</b></sub>
@@ -79,10 +80,6 @@ Third-year Information Technology student driven by creating efficient software 
       <sub><b>Tailwind</b></sub>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br />
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br />
       <sub><b>JavaScript</b></sub>
     </td>
@@ -90,7 +87,6 @@ Third-year Information Technology student driven by creating efficient software 
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br />
       <sub><b>Git</b></sub>
     </td>
-    <td align="center" width="96"></td>
   </tr>
 </table>
 
@@ -105,53 +101,16 @@ Third-year Information Technology student driven by creating efficient software 
 
 ---
 
-### 🚀 Featured Engineering Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Full-Stack Web Platform</h3>
-      <p align="center">
-        A high-performance full-stack web application designed for real-time data processing and smooth user experience.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres,prisma" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Rishuk-123"><b>[ 💻 View Source Code ]</b></a> • 
-        <a href="https://your-demo-url.com"><b>[ 🌐 Live Demo ]</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠️ Scalable Backend API Service</h3>
-      <p align="center">
-        A robust RESTful API architecture featuring custom authentication, database optimization, and middleware caching.
-      </p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,git" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Rishuk-123"><b>[ 💻 View Source Code ]</b></a> • 
-        <a href="https://your-demo-url.com"><b>[ 🌐 API Docs ]</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 📊 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishuk-123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishuk-123&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishuk-123&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishuk-123&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishuk-123&theme=tokyonight&hide_border=true" width="97%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishuk-123&theme=tokyonight" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
 
